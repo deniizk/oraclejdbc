@@ -15,9 +15,6 @@ public class Main {
          // Amend bir önceki commitin üzerine yazar.
         System.err.println("merhaba git intellij");
 
-
-
-
     /*    try {
             getOgretmenler();
         } catch (Exception e) {
