@@ -16,6 +16,8 @@ public class Main {
         System.err.println("merhaba git intellij");
 
 
+
+
     /*    try {
             getOgretmenler();
         } catch (Exception e) {
@@ -85,6 +87,7 @@ public class Main {
         System.err.println(dersler.toString());
         System.err.println(dersRepo.getById(7));*/
     }
+
 
 /*    public static void getOgretmenler() throws Exception
     {
