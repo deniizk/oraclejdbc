@@ -12,6 +12,8 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
         System.err.println("merhaba git");
+         // Amend bir önceki commitin üzerine yazar.
+        System.err.println("merhaba git intellij");
 
 
     /*    try {
