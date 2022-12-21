@@ -14,7 +14,6 @@ public class Main {
         System.err.println("merhaba git");
          // Amend bir önceki commitin üzerine yazar.
         System.err.println("merhaba git intellij");
-        System.err.println("merhaba git intellij");
 
 
     /*    try {
